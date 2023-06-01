@@ -10,4 +10,14 @@
       font-size: 18px;
       padding: 10px 20px;
       margin: 10px;
+      background-color: rgba(81, 165, 81, 0.933);
+      border-radius: 8px;
+      border-color: #bebe;
+      color: white;
+      transition: all 1s;
+    }
+    #comeOnBtn:hover{
+        opacity: .8;
+        color: brown;
+
     }
